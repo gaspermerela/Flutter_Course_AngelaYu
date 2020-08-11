@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663637312996",
+    "firebase_url": "https://flash-chat-32b5b.firebaseio.com",
+    "project_id": "flash-chat-32b5b",
+    "storage_bucket": "flash-chat-32b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663637312996:android:9f994ba53ceb610c8ef3f1",
+        "android_client_info": {
+          "package_name": "co.gaspermerela.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663637312996-ig06uucl4mhcutbr3ruem3jgeh2kfn8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvPpRF6y9wA-JvhPZUD5T-K1YbC4vNSjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663637312996-ig06uucl4mhcutbr3ruem3jgeh2kfn8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
